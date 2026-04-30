@@ -1,5 +1,5 @@
 # Maria Vitória Pereira Alves
-> Estudante de Analise e Desenvolvimento de Sistemas
+> Estudante de Analise e Desenvolvimento de Sistemas da Universidade Cidade de São Paulo (UNICID).
  
 ---
  
