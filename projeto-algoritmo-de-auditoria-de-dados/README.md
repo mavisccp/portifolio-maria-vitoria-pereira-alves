@@ -35,3 +35,6 @@ Clone este repositório ou baixe o arquivo projeto_algoritmo_de_auditoria_de_dad
 Execute o script:Bashpython projeto_algoritmo_de_auditoria_de_dados.py
 
 Insira os valores das três vendas solicitadas no console para visualizar o relatório de auditoria.
+
+
+[Voltar ao início](https://github.com/mavisccp)
