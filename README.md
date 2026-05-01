@@ -49,6 +49,11 @@ Atualmente cursando o 1º período de Analise e Desenvolvimento de Sistemas na U
 | **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
 | **Engenharia de soluções logicas** | Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./engenharia-de-solucoes-logicas/) |
 | **Modularização** | Uma modularização para um sistema de caixa-troco | [Ver Projeto](./modularizacao/) |
+| **Traduzindo Lógica para Python** |  Escrever o pseucódigo equivalente em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais. | [Ver Projeto](./traduzindo-logica-para-python/) |
+| **Engenharia de Contexto e Lógica Física** |  Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./engenharia-de-solucoes-logicas/) |
+| **Desenhando Emojis com Dados** |  Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./desenhando-emojis-com-dados/) |
+
+
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
