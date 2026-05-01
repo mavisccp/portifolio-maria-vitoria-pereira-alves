@@ -41,4 +41,4 @@ Um sistema de gerenciamento de metadados para uma galeria de artes digitais. O a
 * **Operações de Coleção**: Métodos como `.items()`, `.keys()`, `.pop()`, `.append()` e `.insert()`.
 * **Lógica de Programação**: Laços de repetição aninhados, condicionais e aritmética de pixels.
 
-[Voltar ao início](https://github.com/mavisccp))
+[Voltar ao início](https://github.com/mavisccp)
