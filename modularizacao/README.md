@@ -37,4 +37,4 @@ Com base nas notas de auditoria do projeto presentes no arquivo modularizacao3.j
 3. Utilize os operadores de divisão inteira e resto conforme demonstrado no arquivo modularizacao4.jpg para replicar a lógica de distribuição de cédulas.
 
 ---
-[Voltar ao início](https://github.com/seu-usuario/seu-repositorio)
+[Voltar ao início](https://github.com/mavisccp)
